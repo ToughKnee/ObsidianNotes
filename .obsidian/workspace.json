@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSec/ISO 42010 Architecture Approach.md",
+                "file": "CyberSec/Security Framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSec/ISO 42010 Architecture Approach.md",
+                "file": "CyberSec/Security Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSec/ISO 42010 Architecture Approach.md",
+                "file": "CyberSec/Security Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSec/ISO 42010 Architecture Approach.md"
+                "file": "CyberSec/Security Framework.md"
               }
             }
           }
@@ -148,12 +148,18 @@
   },
   "active": "a07ed3b40c129b79",
   "lastOpenFiles": [
+    "CyberSec/WholePartsTreeAndInteractionDiagrams.png",
+    "CyberSec/Pasted image 20240314194743.png",
+    "Pasted image 20240314194743.png",
+    "CyberSec/ISO 42010 Architecture Approach.md",
+    "CyberSec/ArchitectureComponentDiagram.png",
+    "CyberSec/LayersOfTheConcepts.png",
+    "CyberSec/Pasted image 20240314155044.png",
+    "Pasted image 20240314155044.png",
     "CyberSec/ConceptualModel.png",
     "CyberSec/Pasted image 20240313220849.png",
-    "CyberSec/ArchitectureComponentDiagram.png",
     "CyberSec/Security Framework.md",
     "CyberSec/Pasted image 20240313194556.png",
-    "CyberSec/ISO 42010 Architecture Approach.md",
     "create a link.md",
     "CyberSec"
   ]
