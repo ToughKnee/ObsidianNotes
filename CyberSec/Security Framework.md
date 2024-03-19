@@ -37,6 +37,7 @@ All these objectives are meant to address the concerns of the project while also
 - **High-Level Security Objectives**: These are initially derived from organizational policies and goals, and they guide the security for the entire system throughout its lifecycle
 - **Propagated Direct Objectives**: These are more specific objectives that stem from the high-level ones, applied to particular components of the system that are relevant to the security goals.
 	They are like getting the declared objectives giving focus to specific parts of the project  
+The actual purpose of this is to, based on the **whole-parts tree** AND the **interaction diagrams**, then link to **each component with each objective**, and thus be able to justify and reason **with much more confidence and clarity**
 - **Indirect Security Objectives**: These are the objectives that must be addressed also when we want to meet the declared objectives, like implicit objectives, by securing other components that indirectly affect the main security goals, often identified through security relationships like isolation, interaction, and representation
 	Examples of these indirect objectives are:
 	- A box protecting (isolating) the physical integrity of a hard disk may need additional protection for its own integrity
