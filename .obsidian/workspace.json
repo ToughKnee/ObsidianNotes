@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "494441d9eb03496e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a07ed3b40c129b79",
+  "active": "494441d9eb03496e",
   "lastOpenFiles": [
     "CyberSec/WholePartsTreeAndInteractionDiagrams.png",
     "CyberSec/Pasted image 20240314194743.png",
