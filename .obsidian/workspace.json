@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "494441d9eb03496e",
+  "active": "a07ed3b40c129b79",
   "lastOpenFiles": [
     "CyberSec/WholePartsTreeAndInteractionDiagrams.png",
     "CyberSec/Pasted image 20240314194743.png",
