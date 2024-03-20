@@ -11,7 +11,7 @@ This also remarks the structure to
 # Steps to model systems
 The ordered process of modeling the system/entity of interest is to first ensure we follow an architecture based approach with the 3 mentioned viewpoints  
 By doing that and following those viewpoints we are going to be able to **provide a systemic, comprehensive and potentially automated way to manage our target system**, while also being able to support scalability and modularity, to integrate newer technologies with ease and not be coupled to a specific implementation
-
+> When starting this process, we must set our minds to **destroy uncertainty** and **pursue clarity EVERYTIME we talk**, and to do so, we need to decompose **big words**(words that involve a lot of other meanings) and if those words can't be concretized, then **define their limit ourselves**(like with the term *infrastructure* which an immense term involving a lot of meanings depending on who we ask, THEN we **define the meaning of that word ourselves, setting the boundaries and sharing a common language**)
 ## 1. Collect the information and requirements
 This involves the process of getting all the data possible from **all the aspects(objective data of the system), perspectives(the data from aspects but in multiple different angles) AND with their respective priority according to our concerns**, the data must also focus on **objectives and policies**
 Organization policies establish the main guidelines of the resulting security. If there are no available business policies, security objectives could be defined based on a rationale, but hopefully related to the business activity
