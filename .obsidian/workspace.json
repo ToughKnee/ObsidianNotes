@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "5e062b9977e119bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cynefin Framework for Decision Making.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "494441d9eb03496e",
             "type": "leaf",
             "state": {
@@ -29,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSec/Security Framework.md",
+                "file": "Cynefin Framework for Decision Making.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSec/Security Framework.md",
+                "file": "Cynefin Framework for Decision Making.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSec/Security Framework.md"
+                "file": "Cynefin Framework for Decision Making.md"
               }
             }
           }
@@ -156,8 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a07ed3b40c129b79",
+  "active": "5e062b9977e119bf",
   "lastOpenFiles": [
+    "CyberSec/Security Framework.md",
+    "Cynefin Framework for Decision Making.md",
     "CyberSec/WholePartsTreeAndInteractionDiagrams.png",
     "CyberSec/Pasted image 20240314194743.png",
     "Pasted image 20240314194743.png",
@@ -168,7 +183,6 @@
     "Pasted image 20240314155044.png",
     "CyberSec/ConceptualModel.png",
     "CyberSec/Pasted image 20240313220849.png",
-    "CyberSec/Security Framework.md",
     "CyberSec/Pasted image 20240313194556.png",
     "create a link.md",
     "CyberSec"

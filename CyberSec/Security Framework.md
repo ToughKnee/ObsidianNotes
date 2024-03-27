@@ -12,9 +12,14 @@ This also remarks the structure to
 The ordered process of modeling the system/entity of interest is to first ensure we follow an architecture based approach with the 3 mentioned viewpoints  
 By doing that and following those viewpoints we are going to be able to **provide a systemic, comprehensive and potentially automated way to manage our target system**, while also being able to support scalability and modularity, to integrate newer technologies with ease and not be coupled to a specific implementation
 > When starting this process, we must set our minds to **destroy uncertainty** and **pursue clarity EVERYTIME we talk**, and to do so, we need to decompose **big words**(words that involve a lot of other meanings) and if those words can't be concretized, then **define their limit ourselves**(like with the term *infrastructure* which an immense term involving a lot of meanings depending on who we ask, THEN we **define the meaning of that word ourselves, setting the boundaries and sharing a common language**)
-## 1. Collect the information and requirements
-This involves the process of getting all the data possible from **all the aspects(objective data of the system), perspectives(the data from aspects but in multiple different angles) AND with their respective priority according to our concerns**, the data must also focus on **objectives and policies**
+## 1. Collect the information and requirements / Pre-Solution
+//===========================  THIS is not part of the *presolution*, it is part of the **solution**
+This involves the process of getting all the data possible from **all the aspects**(objective data of the system), **perspectives**(the data from aspects but in multiple different angles, like the many and many design possibilities there are based of the information we got from the aspects) AND with their respective priority according to our concerns, the data must also focus on **objectives and policies**  
+//====
+THUS the way we do this **information gathering**, is via the **different stakeholders and their different concerns**, because with this we have **factual and fundamented way to gather info AND structure it** and **prioritize** them according to the needs, info gathered and ease of implementation  
 Organization policies establish the main guidelines of the resulting security. If there are no available business policies, security objectives could be defined based on a rationale, but hopefully related to the business activity
+
+Viewpoints son como las **lineas de los ejes 'x' y 'y'**, donde cada viewpoint **juntos** describen los problemas/concerns conseguidos y les dan sentido, **pero** al separarlos **dan datos que se pueden entender pero con el otro no se entienden, y vicecversa** es **separado** de los demas y permiten **ver partes en especifico donde si un viewpoint describe una cosa en si junto a otro viewpoint, entonces al quitraunu**
 
 ## 2. Defining the system representation
 > Cohesion and Coupling are **key concepts** when **designing the components and also analyzing them**
