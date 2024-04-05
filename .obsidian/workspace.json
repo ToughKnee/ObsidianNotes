@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cynefin Framework for Decision Making.md",
+                "file": "CyberSec/ISO 42010 Architecture Approach.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cynefin Framework for Decision Making.md",
+                "file": "CyberSec/ISO 42010 Architecture Approach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cynefin Framework for Decision Making.md",
+                "file": "CyberSec/ISO 42010 Architecture Approach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cynefin Framework for Decision Making.md"
+                "file": "CyberSec/ISO 42010 Architecture Approach.md"
               }
             }
           }
@@ -171,17 +171,18 @@
   },
   "active": "5e062b9977e119bf",
   "lastOpenFiles": [
-    "CyberSec/Security Framework.md",
-    "Cynefin Framework for Decision Making.md",
+    "CyberSec/ExamplesOfViewPoints.png",
+    "CyberSec/ArchitectureComponentDiagram.png",
+    "CyberSec/ConceptualModel.png",
+    "CyberSec/ISO 42010 Architecture Approach.md",
     "CyberSec/WholePartsTreeAndInteractionDiagrams.png",
+    "CyberSec/Security Framework.md",
+    "CyberSec/LayersOfTheConcepts.png",
+    "Cynefin Framework for Decision Making.md",
     "CyberSec/Pasted image 20240314194743.png",
     "Pasted image 20240314194743.png",
-    "CyberSec/ISO 42010 Architecture Approach.md",
-    "CyberSec/ArchitectureComponentDiagram.png",
-    "CyberSec/LayersOfTheConcepts.png",
     "CyberSec/Pasted image 20240314155044.png",
     "Pasted image 20240314155044.png",
-    "CyberSec/ConceptualModel.png",
     "CyberSec/Pasted image 20240313220849.png",
     "CyberSec/Pasted image 20240313194556.png",
     "create a link.md",
